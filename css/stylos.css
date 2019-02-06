@@ -1,0 +1,53 @@
+#principal_prueba{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+#logo_prueba{
+	width: 500px;
+	height:150px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.titulo_prueba{
+	margin-top: 35px;
+	font-size: 20px;
+}
+
+.sub-titulo-prueba{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+#slide_prueba{
+	width: 800px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+}
+
+#acceso{
+	width: 500px;
+	height: 100px;
+	float: left;
+}
+
+.centrado{
+	margin:10px auto;
+	display:block;
+    }
+#letras{
+color-profile: red
+}
+.correo{
+	margin-top: 30px;
+	font-size: 35px;
+
+}
